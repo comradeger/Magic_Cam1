@@ -69,7 +69,7 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
     
     // RTMP streaming support
-    implementation 'com.github.pedroSG94.RootEncoder:rtplibrary:2.3.1'
+    implementation 'com.github.pedroSG94.RootEncoder:library:2.3.1'
     implementation 'com.github.pedroSG94.RootEncoder:encoder:2.3.1'
     
     // Network and HTTP client for RTMP management
