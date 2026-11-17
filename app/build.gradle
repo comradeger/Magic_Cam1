@@ -4,11 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.virtualcamera.manager'
+    namespace 'com.vtlcmr.manager'
     compileSdk 34
+    ndkVersion "25.1.8937393"
 
     defaultConfig {
-        applicationId "com.virtualcamera.manager"
+        applicationId "com.vtlcmr.manager"
         minSdk 24
         targetSdk 34
         versionCode 1
